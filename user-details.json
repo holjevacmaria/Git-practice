@@ -3,21 +3,18 @@
     "firstName": "Maria",
     "lastName": "Holjevac",
     "age": 27,
-    "gender": "Female",
-    "catPerson": true
+    "gender": "Female"
   },
   {
     "firstName": "Marie",
     "lastName": "Kreutz",
     "age": 32,
-    "gender": "Female",
-    "catPerson": true
+    "gender": "Female"
   },
   {
     "firstName": "Pamela",
     "lastName": "Landy",
     "age": 45,
-    "gender": "Female",
-    "catPerson": false
+    "gender": "Female"
   }
 ]
